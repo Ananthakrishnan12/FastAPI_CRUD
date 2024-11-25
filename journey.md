@@ -54,7 +54,7 @@ Extend Alembic's CLI commands to trigger specific actions like creating tables, 
 
 ****************************************************************************************************************
 
-# ---->  Journey Steps  <-----  ---->
+# ---->  Journey Steps  <-----  
 1.create database in MySQL Workbench..
 
 2.Connect MySQL with FASTAPI...   with Mysql credientials (username,password,localhost,db_name).
