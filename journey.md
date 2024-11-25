@@ -56,11 +56,17 @@ Extend Alembic's CLI commands to trigger specific actions like creating tables, 
 
 # ---->  Journey Steps  <-----
 1.create database in MySQL Workbench..
+
 2.Connect MySQL with FASTAPI...   with Mysql credientials (username,password,localhost,db_name).
+
 3.Create,Insert,Update,Delete Records with Alembic Opeartions.
+
 4.Insert records with default columns. in (Alembic opeartions)
+
 5.Test CRUD Operation  with Swagger UI.
+
 6.Implement CRUD operation with FASTAPI-CRUD router -- to create automatic CRUD operations.
+
 7.create custom template script in alembic. to create,Insert,update records with Json file (without any Hardcode). 
 
 
