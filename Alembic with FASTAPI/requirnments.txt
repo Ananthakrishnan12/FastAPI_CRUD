@@ -1,0 +1,8 @@
+fastapi 
+uvicorn 
+sqlalchemy 
+mysql-connector-python
+alembic
+pydantic
+sqlacodegen
+setuptools
